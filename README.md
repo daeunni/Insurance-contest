@@ -29,6 +29,7 @@ https://programmers.co.kr/competitions/252/2020-miraeasset
 
 - 마이데이터 사업과 연계하여 고객 Segmentation 전략과, 활용 방안에 대하여 본선과 결선에서 피력
 
+![image](https://user-images.githubusercontent.com/62705839/115139627-e04db300-a06d-11eb-899c-33dc60f9e93b.png)
 
 
 
