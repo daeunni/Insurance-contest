@@ -28,8 +28,11 @@ https://programmers.co.kr/competitions/252/2020-miraeasset
 ### 3) Business Insight : 고객 유형화를 통한 보험 청구 적정성 평가 및 추천 서비스 제안
 
 - 마이데이터 사업과 연계하여 고객 Segmentation 전략과, 활용 방안에 대하여 본선과 결선에서 피력
+- 특히, 군집 기반 협업필터링(Collaborative Filtering) 을 활용하여 **군집 내 고객의 질병 유사도 기반 질병예측 모델 제안**
 
 ![image](https://user-images.githubusercontent.com/62705839/115139627-e04db300-a06d-11eb-899c-33dc60f9e93b.png)
+![image](https://user-images.githubusercontent.com/62705839/115139649-0410f900-a06e-11eb-9d4f-7653f465a0cb.png)
+
 
 
 
