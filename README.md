@@ -11,7 +11,7 @@ https://programmers.co.kr/competitions/252/2020-miraeasset
 
 ------------------------------------
 
-## 사용한 주요 인사이트 
+## 📌사용한 주요 인사이트 
 
 ### 1) Modeling : Extra Tree + KNN 
 
@@ -35,7 +35,12 @@ https://programmers.co.kr/competitions/252/2020-miraeasset
 
 
 
-
+## 📌 사용한 패키지와 버전
+Pandas -- 0.25.1   
+Numpy -- 1.16.5    
+Matplotlib -- 3.1.1    
+Seaborn -- 0.11.0    
+Sklearn -- 0.23.1     
 
 
 
